@@ -14,14 +14,14 @@
 
 ## 2. Thông tin sản phẩm:
 
-+ Tên sản phẩm: **Smart Sakana** - Bể cá thông minh (t đặt đại, không thích đổi sau)
++ Tên sản phẩm: **Smart Sakana** - Bể cá thông minh
 
 + Lý do thực hiện: 
-  Trong thời đại mà công nghệ ngày càng gắn bó mật thiết với đời sống, nhóm chúng em nhận thấy rằng việc ứng dụng **Internet of Things (IoT)** không chỉ nên dừng lại ở các lĩnh vực công nghiệp hay nông nghiệp mà còn có tiềm năng to lớn trong việc nâng cao chất lượng cuộc sống hằng ngày - kể cả những hoạt động tưởng chường rất nhỏ như **"nuôi cá cảnh"**.
+  Trong thời đại mà công nghệ ngày càng gắn bó mật thiết với đời sống, nhóm chúng em nhận thấy rằng việc ứng dụng **Internet of Things (IoT)** không chỉ nên dừng lại ở các lĩnh vực công nghiệp hay nông nghiệp mà còn có tiềm năng to lớn trong việc nâng cao chất lượng cuộc sống hằng ngày - kể cả những hoạt động tưởng chừng rất nhỏ như **"nuôi cá cảnh"**.
 
-  Công việc "nuôi cá cảnh nnghe tưởng chường rất đơn giản nhưng thật ra lại rất phức tạp. Điển hình như đối với loài **cá rồng (Asian Arowana)**, chất lượng nước ảnh hưởng rất lớn tới sức khỏe và tuổi thọ của loài cá này: nhiệt độ không được quá nóng hay quá lạnh, nước nuôi cá phải tốt: nước cần phải trong, độ **pH 6.5 - 7.5**, không có hoặc hầu như không có **Ammonia (NH3) / Nitrite(NO2-) / Nitrate(NO3-)**, Nồng độ **oxy hòa tan > 6mg/L**, **độ cứng** nước trung bình, ... và còn rất nhiều yếu tố khác. Bởi vậy, việc chăm sóc cá cảnh này cần nhiều sự **chú ý và thời gian** - 2 tài nguyên rất quý giá trong cuộc sống hiện đại.
+  Công việc "nuôi cá cảnh nghe rất đơn giản nhưng thật ra rất phức tạp. Điển hình như đối với loài **cá rồng (Asian Arowana)**, chất lượng nước ảnh hưởng rất lớn tới sức khỏe và tuổi thọ của loài cá này: nhiệt độ không được quá nóng hay quá lạnh, nước nuôi cá phải tốt: nước cần phải trong, độ **pH 6.5 - 7.5**, không có hoặc hầu như không có **Ammonia (NH3) / Nitrite(NO2-) / Nitrate(NO3-)**, Nồng độ **oxy hòa tan > 6mg/L**, **độ cứng** nước trung bình, ... và còn rất nhiều yếu tố khác. Bởi vậy, việc chăm sóc cá cảnh này cần nhiều sự **chú ý và thời gian** - 2 tài nguyên rất quý giá trong cuộc sống hiện đại.
 
-  Hiểu được nhưng khó khăn đó và sự quan tâm đối với môn học, chúng em chọn đề tài **"Bể cá thông minh - Smart Sakana"** như một cách tiếp cận nhẹ nhàng nhưng thực tế, đủ để rèn luyện kiến thức, kĩ năng trong tư duy thiết kế, trau dồi kĩ năng. Tóm lại, đồ án này như một thử nghiệm nho nhỏ nhưng hiệu quả trên con đường học tập kinh nghiệm, trải nghiệm không chỉ trong trong môn học, mà còn trong các dự án thực tế trong tương lai. (văn vở vãi, giả trân ác)
+  Hiểu được nhưng khó khăn đó và sự quan tâm đối với môn học, chúng em chọn đề tài **"Bể cá thông minh - Smart Sakana"** như một cách tiếp cận nhẹ nhàng nhưng thực tế, đủ để rèn luyện kiến thức, kĩ năng trong tư duy thiết kế, trau dồi kĩ năng. Tóm lại, đồ án này như một thử nghiệm nho nhỏ nhưng hiệu quả trên con đường học tập kinh nghiệm, trải nghiệm không chỉ trong trong môn học, mà còn trong các dự án thực tế trong tương lai.
 
 + Bảng tóm tắt chức năng của sản phẩm: (làm bảng)
   
@@ -43,7 +43,7 @@
   
   + Cảnh báo: khi có thay đổi đột ngột (cúp điện, nhiệt độ / độ pH thay đổi với biên độ lớn, cảm biến / thiết bị không hoạt động)
   
-  + cơ sở dữ liệu: có thể trực quan hóa và cho phép xem lại dữ liệu môi trường.
+  + Cơ sở dữ liệu: có thể trực quan hóa và cho phép xem lại dữ liệu môi trường.
 
 + Mô tả chi tiết chức năng sản phẩm và web:
   
@@ -107,7 +107,7 @@
 
 ## 
 
-## Bảng vẽ phác thảo hình dáng bên ngoài và cấu trúc bên trong (SOS)
+## Bảng vẽ phác thảo hình dáng bên ngoài và cấu trúc bên trong
 
 (comming soon)
 
